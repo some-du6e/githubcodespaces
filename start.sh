@@ -1,0 +1,2 @@
+cd Alu
+pnpm start
